@@ -4,7 +4,7 @@ My name is Aaron. I'm a Software Engineer in the Boston area. Prior to the pande
 
 - 🔭 I’m currently working on a book about modern web testing
 - 🌱 I’m currently learning how to be a better (neo)vim user
-- 👯 I’m looking to collaborate on writing documentation or tutorials
+- 👯 I’m looking to collaborate on an [a11y cheatsheet](https://github.com/azemetre/web-a11y-cheatsheet)
 - 💬 Ask me about testing and data visualizations
 - 📫 How to reach me: via twitter [@azemetre](https://twitter.com/azemetre)
 - 😄 Pronouns: he/him/his
