@@ -8,3 +8,7 @@ My name is Aaron. I'm a Data Visualization Engineer in the Boston area. Prior to
 - 💬 Ask me about testing and data visualizations
 - 📫 How to reach me: via mastodon [@azemetre](https://fosstodon.org/@azemetre)
 - 😄 Pronouns: he/him/his
+
+I also recently started streaming myself coding on Twitch.tv, every Tuesday and Thursday at 7 pm EST. Check it out at:
+
+https://www.twitch.tv/azemetre
