@@ -7,5 +7,5 @@ My name is Aaron. I'm an Engineer in the Boston area. Prior to the pandemic you 
 - 👯 I’m looking to collaborate on an [a11y cheatsheet](https://github.com/azemetre/web-a11y-cheatsheet)
 - 💬 Ask me about testing and data visualizations
 - 📫 How to reach me: via mastodon [@azemetre](https://fosstodon.org/@azemetre)
-- 📺 I recently started streaming myself coding, twice a week, on [twitch.tv](https://www.twitch.tv/azemetre)
+- 📺 I recently started streaming myself coding, very sporadically, on [twitch.tv](https://www.twitch.tv/azemetre)
 - 😄 Pronouns: he/him/his
