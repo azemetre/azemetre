@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Aaron. I'm an Engineer in the Boston area. Prior to the pandemic you could have found me attending or speaking at the TypeScript, JavaScript, React, Go, or Scala meetups. I'm interested in data visualizations, functional programming, and all types of testing.
+My name is Aaron. I'm an Engineer in the Boston area. Prior to the pandemic you could have found me attending or speaking at the TypeScript, JavaScript, React, Go, or Scala meetups. I'm interested in data visualizations, functional programming, and all types of testing. 3 year goal? Make a digital magazine.
 
 - 🔭 I’m currently working on learning Rust, Go, and Lua
 - 🌱 I’m currently trying to be a better (neo)vim user
